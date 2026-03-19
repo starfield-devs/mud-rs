@@ -1,0 +1,5 @@
+max_width = 135
+fn_params_layout = "Vertical"
+unstable_features = true
+merge_imports = true
+group_imports = "StdExternalCrate"
